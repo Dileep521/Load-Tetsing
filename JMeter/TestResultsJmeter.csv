@@ -1,0 +1,3 @@
+# JMeter generated Header file
+Authorization	Bearer ${auth_token}
+Content-Type	application/json
